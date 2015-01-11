@@ -1,0 +1,18 @@
+{
+  "name": "zengit",
+  "description": "Fetch Github zen citations",
+  "author": "Giovanny Andres Gongora Granada",
+  "version": "1.0.0",
+  "main": "zengit.js",
+  "repository": "https://github.com/Gioyik/ZenGit",
+  "keywords": [
+    "git",
+    "github",
+    "zen",
+    "zengit"
+  ],
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "request": "~2.16.6"
+  }
+}
