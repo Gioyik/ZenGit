@@ -7,6 +7,11 @@ A cli to fetch zen streaming from GitHub API.
 - Install dependencies: `$ npm install`
 - Run the script: `$ ./zengit.js`
 
+If you want it as global binary:
+
+- Install from npm: `npm install -g zengit`
+- Run: `$ zengit`
+
 ## Example output
 
 

@@ -4,6 +4,9 @@
   "author": "Giovanny Andres Gongora Granada",
   "version": "1.0.0",
   "main": "zengit.js",
+  "bin": {
+    "zengit": "./zengit.js"
+  },
   "repository": "https://github.com/Gioyik/ZenGit",
   "keywords": [
     "git",
