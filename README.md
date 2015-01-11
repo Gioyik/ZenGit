@@ -18,13 +18,15 @@ If you want it as global binary:
 ## Notes
 API limit is 60 requests per hour, if you need expand the limit use your user name as parameter.
 
-```
-$ ./zen Gioyik
+```bash
+# zengit (installed globally) or ./zengit.js (running from repository)
+$ ./zengit Gioyik
 Password:
 ```
 
 You can save the output in a text file:
 
-```
-$ ./zen.js > zen
+```bash
+# zengit (installed globally) or ./zengit.js (running from repository)
+$ zengit > zen
 ```
